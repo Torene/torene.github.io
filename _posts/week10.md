@@ -15,4 +15,3 @@ The data set that I used was the SAT scores of high school students in New York 
 
 <a href="https://data.cityofnewyork.us/Education/SAT-Results/f9bf-2cp4">The Original Spread Sheet</a>
 
-
